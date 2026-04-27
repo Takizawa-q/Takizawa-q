@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there! I'm a Python Developer 👋
 
-<!--
-**Takizawa-q/Takizawa-q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building high-load and fault-tolerant systems. I strictly follow **SOLID** and **OOP** principles, focusing on writing clean, maintainable code with an emphasis on **Asyncio**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+*   **Backend:** Python (Advanced) — Async, SQLAlchemy, FastAPI, Django
+*   **Automation:** Selenium, Playwright (E2E & Scraping)
+*   **Testing:** Pytest (Unit & Integration)
+*   **Databases:** PostgreSQL, MySQL, Redis
+*   **Infrastructure:** Docker, Linux (Bash), Git
+*   **Observability & Tools:** Zabbix, Grafana, Jira, Confluence
+
+---
+
+### 🚀 Experience & Specialization
+
+- **Web Development:** Designing API architectures using FastAPI and Django with an asynchronous approach.
+- **Bots:** Developing complex Telegram bots using **aiogram** with any business logic.
+- **Automation:** Writing reliable browser automation scripts (Selenium/Playwright).
+- **Monitoring:** Setting up system monitoring via Zabbix and visualizing metrics in Grafana.
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+
+### 📫 Connect with me
+
+*   **Telegram:** [![Telegram](https://shields.io)](https://t.me)
+*   **Email:** [a.sarimov@bk.ru](mailto:a.sarimov@bk.ru)
