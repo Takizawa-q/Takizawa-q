@@ -26,8 +26,8 @@ I specialize in building high-load and fault-tolerant systems. I strictly follow
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ---
 
